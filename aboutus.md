@@ -4,6 +4,6 @@
 [School of Computer Science](https://www.cs.st-andrews.ac.uk) at the 
 [University of St Andrews](https://www.st-andrews.ac.uk). 
 
-[Ilia Lvov](https://il23.host.cs.st-andrews.ac.uk) is a PhD student in the 
+[Ilia Lvov](https://scholar.google.co.uk/citations?user=dZxi1Q8AAAAJ) is a PhD student in the 
 [School of Computer Science](https://www.cs.st-andrews.ac.uk) at the 
 [University of St Andrews](https://www.st-andrews.ac.uk). 
