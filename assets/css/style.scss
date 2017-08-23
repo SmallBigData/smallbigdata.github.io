@@ -5,4 +5,13 @@
 
 header li {
   float: none;
+  width: auto;
+}
+
+header ul {
+  height: auto;
+}
+
+header ul a {
+  font-size: 12px;
 }
