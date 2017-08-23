@@ -1,3 +1,7 @@
+---
+title: Welcome to the World of Small Big Data
+layout: page
+---
 # Welcome to the World of Small Big Data
 
 You may thing "what the heck?" - what is that supposed to mean? Right, read our
