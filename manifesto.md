@@ -1,3 +1,6 @@
+---
+title: The Small Big Data Manifesto
+---
 # The Small Big Data Manifesto
 
 1. We (humans) produce more and more data every day.
