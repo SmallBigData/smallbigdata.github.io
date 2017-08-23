@@ -20,3 +20,7 @@
 
 10. Ergo, we need new tools, inspired by the "big data" hype, that can process larger amounts of data
   without requiring the hardware- and management overhead of current "big data" technologies.
+
+11. Many users of such tools would also lack experience of setting and running a data-intensive project.
+
+12. Ergo, we need project management tools for such endeavours.
