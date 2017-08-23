@@ -5,4 +5,4 @@ You may thing "what the heck?" - what is that supposed to mean? Right, read our
 
 If you want to know more about the people who cooked this up, head over to [About Us](aboutus.html).
 
-Or have a look at the [Software](https://github.com/SmallBigData/SmallBigData) we produce.
+Or have a look at the [Software](https://github.com/SmallBigData) we produce.
