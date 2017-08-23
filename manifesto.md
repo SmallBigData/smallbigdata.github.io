@@ -6,7 +6,7 @@
 
 3. What used to be "big" yesterday is "large-ish" today and will be "small" tomorrow.
 
-4. Definitions of "big data" usually refer to more attributes of the data than just sheer volume.
+4. Ergo, definitions of "big data" usually refer to more attributes of the data than just sheer volume.
 
 5. Big data technologies are great for data that is truly big.
 
@@ -16,5 +16,7 @@
 
 8. The tools we have for those tend to break even for modest amounts of data.
 
-9. Ergo, we need new tools, inspired by the "big data" hype, that can process larger amounts of data
+9. Ergo, people start using "big data" technologies on single machines, which is not efficient.
+
+10. Ergo, we need new tools, inspired by the "big data" hype, that can process larger amounts of data
   without requiring the hardware- and management overhead of current "big data" technologies.
