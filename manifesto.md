@@ -9,17 +9,17 @@ title: The Small Big Data Manifesto
 
 3. What used to be "big" yesterday is "large-ish" today and will be "small" tomorrow.
 
-4. Ergo, definitions of "big data" usually refer to more attributes of the data than just sheer volume.
+4. Definitions of "big data" usually refer to more attributes of the data than just sheer volume.
 
-5. Big data technologies are great for data that is truly big.
+5. Big data technologies are great for data that are truly big.
 
 6. Setting up a cluster of machines for many "big data" applications would be overkill and not financially viable.
 
-7. Ergo, most users are stuck with laptops, workstations or individual servers.
+7. Most users are stuck with laptops, workstations or individual servers.
 
 8. The tools we have for those tend to break even for modest amounts of data.
 
-9. Ergo, people start using "big data" technologies on single machines, which is not efficient.
+9. People often use "big data" technologies on single machines, which is not efficient.
 
 10. Ergo, we need new tools, inspired by the "big data" hype, that can process larger amounts of data
   without requiring the hardware- and management overhead of current "big data" technologies.
