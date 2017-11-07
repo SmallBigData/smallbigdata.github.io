@@ -3,7 +3,7 @@
 We run a number of projects - some small, some larger - that aim to realise our ambitions to 
 support small big data projects as spelled out in the [manifesto](manifesto.html).
 
-## Lazy Evaluation Object Notation 
+## Lazy Evaluation Object Notation
 
 The aim of this project is to develop a new data representation for big data applications. 
 The Lazy Evaluation Object Notation (LEON) format aims to provide a binary object notation 
@@ -20,7 +20,7 @@ size of a machine's memory (plus allocated swap space). This aim of this project
 critical components in the Streams API to allow them to operate on disk instead, allowing larger
 amounts of data to be processed. [Learn more...]()
 
-## Data Science Scorecards 
+## Data Science Scorecards
 
 Data science endeavours often have huge management overheads. They may involve interdisciplinary
 teams working with diverse data sources using evolving methods as well as complex infrastructures
