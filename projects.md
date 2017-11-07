@@ -1,5 +1,8 @@
 # Projects
 
+## Lazy-Evaluation Object Notation 
+
+## Big Data Streams
 
 ## Data Science Scorecards (__Ilia Lvov__)
 Data science endeavours often have huge management overheads. They may involve interdisciplinary
