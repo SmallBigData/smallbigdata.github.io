@@ -15,13 +15,13 @@ The Deck helps social data science teams to:
 
 The Social Data Science Scorecard Deck is inspired by the [SEMAT](http://semat.org/) Kernel model. The SEMAT model captures the [Essence of Software Engineering](http://semat.org/books-on-essence). The model identifies the three main areas of concern for a software engineering project (**Customer**, **Solution**, **Endeavour**). Within each area, it specifies the core aspects (*alphas*) that are imminent to every software engineering project (see Figure 1).
 
-![](semat_essence.png){alt="Figure 1. SEMAT Essence Diagramme."}
+![Figure 1. SEMAT Essence Diagramme](semat_essence.png)
 
 <sup>Figure 1. SEMAT Essence of Software Engineering Diagramme. Taken from [Essence Standard v1.1](http://semat.org/documents/20181/57862/formal-15-12-02.pdf/e7ba1188-c477-4585-b18a-06937f0e62f3).</sup>
 
 Underpinning of the Social Data Science Scorecard Deck is the observation that the areas of concern of a data science project overlap with those in software engineering. The Deck captures the core aspects of a social data science project by extending the original Essence model with new and updated areas of concern and alphas. Essence of Social Data Science Diagramme (see Figure 2) represents their relationships.
 
-![](data_science_essence.svg){alt="Figure 2. Essence of Social Data Science Diagramme." width=700}
+![Figure 2. Essence of Social Data Science Diagramme](data_science_essence.svg)
 
 <sup>Figure 2. Essence of Social Data Science Diagramme.</sup>
 
@@ -77,8 +77,8 @@ Further following the steps of the [SEMAT](http://semat.org/) Kernel model, the 
 
 The Deck also has separate cards for each individual state of an alpha. Such a card lists the conditions that should be met by an alpha to achieve this state. Figures 3a and 3b present example scorecards for the *Data* alpha and for its *Operationalised* state.
 
-![](data_card.svg){alt="Figure 3a. Data Scorecard." width=400} 
-![](data_operationalised_card.svg){alt="Figure 3b. Data Operationalised Scorecard." width=400}
+![Figure 3a. Data Scorecard](data_card.svg)
+![Figure 3b. Data Operationalised Scorecard](data_operationalised_card.svg)
 
 <sup>Figures 3a and 3b. "Data" Alpha Scorecard (front and back) and "Data: Operationalised" State Scorecard (front and back).</sup>
 
