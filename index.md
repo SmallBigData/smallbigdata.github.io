@@ -16,4 +16,5 @@ We work on solutions in the following areas:
 * Efficient local "big data" style processing - Big Data Streams (Eric Lin)
 * Data Representation - LEON (currently a student project proposal at St Andrews)
 * Data management - CastInStone (lead: Alex Voss)
-* Provenance - ???
+
+[comment]: # (* Provenance - ???)
