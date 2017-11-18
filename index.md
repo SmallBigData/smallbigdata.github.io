@@ -1,5 +1,6 @@
 ---
 title: Welcome to the World of Small Big Data
+layout: default
 ---
 # Welcome to the<br />World of Small Big Data
 
