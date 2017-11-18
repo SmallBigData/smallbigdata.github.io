@@ -9,7 +9,8 @@ The aim of this project is to develop a new data representation for big data app
 The Lazy Evaluation Object Notation (LEON) format aims to provide a binary object notation 
 that is functionally equivalent to JSON but is both faster to process and more space-efficient 
 on disk. For big-data applications that tend to consist of large numbers of records that are 
-similar in structure, the improvements can be significant. [Learn more...]()
+similar in structure, the improvements can be significant. (Keanan Frazer's ongoing Senior 
+Honours project, supervised by Alex Voss and Jon Lewis)
 
 ## Big Data Streams
 
@@ -18,7 +19,8 @@ those that would make up a job in a modern Big Data framework such as Spark. Unf
 operations happen in memory, so the size of the data that can be processed is limited to the 
 size of a machine's memory (plus allocated swap space). This aim of this project is to replace
 critical components in the Streams API to allow them to operate on disk instead, allowing larger
-amounts of data to be processed. [Learn more...]()
+amounts of data to be processed. (Eric Lin's finished MSc dissertation, now being developed 
+further by Alex Voss)
 
 ## Data Science Scorecards
 
