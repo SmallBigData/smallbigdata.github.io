@@ -5,7 +5,8 @@ layout: default
 
 # Social Data Science Scorecard Deck
 
-*The Social Data Science Scorecard Deck is an agile project management tool addressing core individual aspects of a social data science project.*
+*The Social Data Science Scorecard Deck is an agile project management tool addressing core
+individual aspects of a social data science project.*
 
 The Deck helps social data science teams to:
 
