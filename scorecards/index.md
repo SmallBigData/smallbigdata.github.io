@@ -5,16 +5,19 @@ layout: default
 
 # Social Data Science Scorecard Deck
 
-*The Social Data Science Scorecard Deck is an agile project management tool addressing core individual aspects of a social data science project.*
+*The Social Data Science Scorecard Deck is an agile project management tool addressing core
+individual aspects of a social data science project.*
 
 The Deck helps social data science teams to:
 
-* Ensure balanced development of a social data science project.
 * Detect bottlenecks and reasons for project delays or other problems.
+* Ensure balanced development of a social data science project.
+* Track decisions and their provenance.
 * Structure project documentation and progress reporting.
 * Effectively distribute responsibilities.
-* Plan further activities.
+* Plan the next steps to take within a project.
 * Organise organisational practices and ways of working.
+* In the long term, reuse the emerged practices and streamline social data science.
 
 ## Essence of Social Data Science
 
@@ -22,28 +25,29 @@ The Social Data Science Scorecard Deck is inspired by the [SEMAT](http://semat.o
 The SEMAT model captures the [Essence of Software Engineering](http://semat.org/books-on-essence).
 The model identifies the three main areas of concern for a software engineering project
 (**Customer**, **Solution**, **Endeavour**). Within each area, it specifies the core aspects
-(*alphas*) that are imminent to every software engineering project (see Figure 1).
+(*alphas*) that are inherent to every software engineering project (see Figure 1).
 
-![Figure 1. SEMAT Essence Diagram](semat_essence.png)
+![Figure 1. The SEMAT Essence Diagram](semat_essence.png)
 
-<sup>Figure 1. SEMAT Essence of Software Engineering Diagram. Taken from [Essence Standard
-v1.1](http://semat.org/documents/20181/57862/formal-15-12-02.pdf/e7ba1188-c477-4585-b18a-06937f0e62f3).</sup>
+<sup>The Figure 1. SEMAT Essence of Software Engineering Diagram (source: [Essence Standard
+v1.1](http://semat.org/documents/20181/57862/formal-15-12-02.pdf/e7ba1188-c477-4585-b18a-06937f0e62f3)).</sup>
 
 Underpinning of the Social Data Science Scorecard Deck is the observation that the areas of concern
 of a data science project overlap with those in software engineering. The Deck captures the core
 aspects of a social data science project by extending the original Essence model with new and
-updated areas of concern and alphas. Essence of Social Data Science Diagram (see Figure 2)
+updated areas of concern and alphas. The Essence of Social Data Science Diagram (see Figure 2)
 represents their relationships.
 
-![Figure 2. Essence of Social Data Science Diagram](data_science_essence.svg)
+![Figure 2. The Essence of Social Data Science Diagram](data_science_essence.svg)
 
-<sup>Figure 2. Essence of Social Data Science Diagram.</sup>
+<sup>Figure 2. The Essence of Social Data Science Diagram.</sup>
 
 ### - Area of Concern 1: Demand
 
-The **Demand** area of concern captures the need in running a social data science project.
+The **Demand** area of concern captures the stakeholders' need for running a social data science project.
 
-The *Research Goal* alpha represents what, in principle, needs to be achieved by the research and
+The *Research Goal* alpha represents what, in principle, needs to be achieved by the research to satisfy
+the stakeholders and
 why it is relevant and feasible. The goal informs the questions that the research aims to answer.
 
 The *Stakeholders* alpha represents the potential beneficiaries of the research and the users of the
@@ -126,10 +130,10 @@ The Deck also has separate cards for each individual state of an alpha. Such a c
 conditions that should be met by an alpha to achieve this state. Figures 3a and 3b present example
 scorecards for the *Data* alpha and for its *Operationalised* state.
 
-![Figure 3a. Data Scorecard](data_card.svg)
-![Figure 3b. Data Operationalised Scorecard](data_operationalised_card.svg)
+![Figure 3a. The Data Scorecard](data_card.svg)
+![Figure 3b. The Data Operationalised Scorecard](data_operationalised_card.svg)
 
-<sup>Figures 3a and 3b. "Data" Alpha Scorecard (front and back) and "Data: Operationalised" State
+<sup>Figures 3a and 3b. The "Data" Alpha Scorecard (front and back) and the "Data: Operationalised" State
 Scorecard (front and back).</sup>
 
 ### - Using the Deck
