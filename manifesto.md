@@ -1,5 +1,6 @@
 ---
 title: The Small Big Data Manifesto
+layout: default
 ---
 # The Small Big Data Manifesto
 

@@ -1,3 +1,7 @@
+---
+title: Welcome to the World of Small Big Data
+layout: default
+---
 # About Us 
 
 We are a bunch of academics and students from the 

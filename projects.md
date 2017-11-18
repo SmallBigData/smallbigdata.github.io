@@ -1,3 +1,8 @@
+---
+title: Projects
+layout: default
+---
+
 # Projects
 
 We run a number of projects - some small, some larger - that aim to realise our ambitions to 
