@@ -8,6 +8,8 @@ layout: default
 *The Social Data Science Scorecard Deck is an agile project management tool addressing core
 individual aspects of a social data science project.*
 
+[comment]: perhaps put in your name and contact info here so people know who wrote this?
+
 The Deck helps social data science teams to:
 
 * Detect bottlenecks and reasons for project delays or other problems.
@@ -22,12 +24,12 @@ The Deck helps social data science teams to:
 ## Essence of Social Data Science
 
 The Social Data Science Scorecard Deck is inspired by the [SEMAT](http://semat.org/) Kernel model.
-The SEMAT model captures the [Essence of Software Engineering](http://semat.org/books-on-essence).
-The model identifies the three main areas of concern for a software engineering project
-(**Customer**, **Solution**, **Endeavour**). Within each area, it specifies the core aspects
+The SEMAT Kernel model captures the [Essence of Software Engineering](http://semat.org/books-on-essence).
+It identifies the three main areas of concern for a software engineering project:
+**Customer**, **Solution**, and **Endeavour**. Within each area, it specifies the core aspects
 (*alphas*) that are inherent to every software engineering project (see Figure 1).
 
-![Figure 1. The SEMAT Essence Diagram](semat_essence.png)
+[![Figure 1. The SEMAT Essence Diagram](semat_essence.png)](semat_essence.png)
 
 <sup>The Figure 1. SEMAT Essence of Software Engineering Diagram (source: [Essence Standard
 v1.1](http://semat.org/documents/20181/57862/formal-15-12-02.pdf/e7ba1188-c477-4585-b18a-06937f0e62f3)).</sup>
@@ -36,9 +38,11 @@ Underpinning of the Social Data Science Scorecard Deck is the observation that t
 of a data science project overlap with those in software engineering. The Deck captures the core
 aspects of a social data science project by extending the original Essence model with new and
 updated areas of concern and alphas. The Essence of Social Data Science Diagram (see Figure 2)
-represents their relationships.
+represents their relationships. Each Alpha is further elaborated using [decks of alpha 
+scorecards](#the-deck).
 
-![Figure 2. The Essence of Social Data Science Diagram](data_science_essence.svg)
+[![Figure 2. The Essence of Social Data Science
+Diagram](data_science_essence.svg)](data_science_essence.svg)
 
 <sup>Figure 2. The Essence of Social Data Science Diagram.</sup>
 
@@ -50,14 +54,12 @@ The *Research Goal* alpha represents what, in principle, needs to be achieved by
 the stakeholders and
 why it is relevant and feasible. The goal informs the questions that the research aims to answer.
 
-The *Stakeholders* alpha represents the potential beneficiaries of the research and the users of the
-project artefacts. Achievement of the research goal is in their interests. Stakeholders support the
+The *Stakeholders* alpha represents the potential beneficiaries of the research, the users of the
+project artefacts and other parties affected by the project. Achievement of the research goal is in 
+their interest as is the proper and ethical conduct of the research. Stakeholders may support the
 project team through funding, guidance, participation in research activities and other means. The
 team needs the stakeholder involvement to make sure that the research actually progresses towards
 its goal.
-
-Occasionally, some stakeholder groups may be adversely affected by a social data science project.
-Their involvement is still crucial to make sure that the level of harm is managed.
 
 ### - Area of Concern 2: Solution
 
@@ -68,9 +70,8 @@ of the work on a social data science project is done to answer these questions, 
 work from start to finish.
 
 The *Artefacts* alpha represents the outputs of the project that embed the answers to the research
-questions. Their types are numerous: from reports and publications in academic projects to apps and
-software modules in the industrial environment. The artefacts are designed to satisfy the research
-goals.
+questions. Their types are numerous: from reports and publications to software systems and reusable
+components. The artefacts are designed to satisfy the research goals.
 
 ### - Area of Concern 3: Analytics
 
@@ -81,8 +82,8 @@ The *Data* alpha represents all the data that are available for the project. Dat
 external and internal data sources and may be produced by the project interim work.
 
 The *Research Methods* alpha represents the approaches that are applied to the data to answer the
-research questions. They may vary from data visualisation techniques to complex machine learning
-methods. By answering the research questions, the methods inform the artefacts.
+research questions. They may vary from statistical methods and data visualisation techniques to 
+complex machine learning methods. By answering the research questions, the methods inform the artefacts.
 
 ### - Area of Concern 4: Resources
 
@@ -93,20 +94,20 @@ The *Data Sources* alpha represents the platforms that provide data for the proj
 does not use the external data sources, many of the technical concerns related to this alpha are
 automatically resolved. Yet it is not advised to exclude this alpha from consideration as
 methodological concerns may still prevail.
+[comment]: We may need to discuss this one. It is not as clearly formulated as it should be.
 
 The *Infrastructure* alpha represents the software, hardware and data structures employed in a
 social data science project. The infrastructure is used to access the data sources, to acquire and
 store the research data and to execute the research methods.
 
-The **Compliance** alpha represents the available ethical and legal clearances and permissions.
+The *Compliance* alpha represents the available ethical and legal clearances and permissions.
 Without compliance in place, it may be deemed unethical and even illegal to access certain data
-sources (e.g. due to licensing reasons) and store and analyse data from them (e.g. due to privacy
-concerns).
+sources (for example, due to licensing restrictions) and store and analyse data from them (for example, 
+due to privacy concerns).
 
 ### - Area of Concern 5: Endeavour
 
-The **Endeavour** area of concern captures the actual process of bringing the required research to
-life.
+The **Endeavour** area of concern captures the actual process of conducting the research.
 
 The *Work* alpha represents all the activities that need to be carried out for the project. The work
 aims to satisfy the research goal.
@@ -130,8 +131,9 @@ The Deck also has separate cards for each individual state of an alpha. Such a c
 conditions that should be met by an alpha to achieve this state. Figures 3a and 3b present example
 scorecards for the *Data* alpha and for its *Operationalised* state.
 
-![Figure 3a. The Data Scorecard](data_card.svg)
-![Figure 3b. The Data Operationalised Scorecard](data_operationalised_card.svg)
+[![Figure 3a. The Data Scorecard](data_card.svg)](data_card.svg)
+[![Figure 3b. The Data Operationalised
+Scorecard](data_operationalised_card.svg)](data_operationalised_card.svg)
 
 <sup>Figures 3a and 3b. The "Data" Alpha Scorecard (front and back) and the "Data: Operationalised" State
 Scorecard (front and back).</sup>
